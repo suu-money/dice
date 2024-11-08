@@ -1,0 +1,8 @@
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/dice.dir
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/rebuild_cache.dir
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/install.dir
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/install/local.dir
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/install/strip.dir
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/dice_autogen_timestamp_deps.dir
+C:/Users/USER/Documents/application/completed/dice - Copy/build/CMakeFiles/dice_autogen.dir

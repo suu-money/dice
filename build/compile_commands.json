@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Debug\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\dice.dir\\Debug\\dice_autogen\\mocs_compilation_Debug.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\mocs_compilation_Debug.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\mocs_compilation_Debug.cpp",
+  "output": "CMakeFiles\\dice.dir\\Debug\\dice_autogen\\mocs_compilation_Debug.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Debug\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\dice.dir\\Debug\\main.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\main.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\main.cpp",
+  "output": "CMakeFiles\\dice.dir\\Debug\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Debug\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\dice.dir\\Debug\\dicegame.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\dicegame.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\dicegame.cpp",
+  "output": "CMakeFiles\\dice.dir\\Debug\\dicegame.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Debug\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\dice.dir\\Debug\\dice_autogen\\EWIEGA46WW_Debug\\qrc_resources.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\EWIEGA46WW_Debug\\qrc_resources.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\EWIEGA46WW_Debug\\qrc_resources.cpp",
+  "output": "CMakeFiles\\dice.dir\\Debug\\dice_autogen\\EWIEGA46WW_Debug\\qrc_resources.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Release\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\Release\\dice_autogen\\mocs_compilation_Release.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\mocs_compilation_Release.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\mocs_compilation_Release.cpp",
+  "output": "CMakeFiles\\dice.dir\\Release\\dice_autogen\\mocs_compilation_Release.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Release\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\Release\\main.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\main.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\main.cpp",
+  "output": "CMakeFiles\\dice.dir\\Release\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Release\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\Release\\dicegame.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\dicegame.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\dicegame.cpp",
+  "output": "CMakeFiles\\dice.dir\\Release\\dicegame.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_Release\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\Release\\dice_autogen\\EWIEGA46WW_Release\\qrc_resources.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\EWIEGA46WW_Release\\qrc_resources.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\EWIEGA46WW_Release\\qrc_resources.cpp",
+  "output": "CMakeFiles\\dice.dir\\Release\\dice_autogen\\EWIEGA46WW_Release\\qrc_resources.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_RelWithDebInfo\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\RelWithDebInfo\\dice_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\mocs_compilation_RelWithDebInfo.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "output": "CMakeFiles\\dice.dir\\RelWithDebInfo\\dice_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_RelWithDebInfo\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\RelWithDebInfo\\main.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\main.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\main.cpp",
+  "output": "CMakeFiles\\dice.dir\\RelWithDebInfo\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_RelWithDebInfo\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\RelWithDebInfo\\dicegame.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\dicegame.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\dicegame.cpp",
+  "output": "CMakeFiles\\dice.dir\\RelWithDebInfo\\dicegame.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER/Documents/application/completed/dice - Copy/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -I\"C:/Users/USER/Documents/application/completed/dice - Copy/build/dice_autogen/include_RelWithDebInfo\" -isystem C:/Qt/6.8.0/mingw_64/include/QtCore -isystem C:/Qt/6.8.0/mingw_64/include -isystem C:/Qt/6.8.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.8.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.0/mingw_64/include/QtGui -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\dice.dir\\RelWithDebInfo\\dice_autogen\\EWIEGA46WW_RelWithDebInfo\\qrc_resources.cpp.obj -c \"C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\EWIEGA46WW_RelWithDebInfo\\qrc_resources.cpp\"",
+  "file": "C:\\Users\\USER\\Documents\\application\\completed\\dice - Copy\\build\\dice_autogen\\EWIEGA46WW_RelWithDebInfo\\qrc_resources.cpp",
+  "output": "CMakeFiles\\dice.dir\\RelWithDebInfo\\dice_autogen\\EWIEGA46WW_RelWithDebInfo\\qrc_resources.cpp.obj"
+}
+]
